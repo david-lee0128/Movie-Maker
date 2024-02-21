@@ -72,3 +72,22 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Models
+Content/MDL/*
+
+# Metahumans
+Content/MetaHumans/*
+
+# Character Detective
+Content/Glasses/*
+Content/JW/*
+Content/Sci_Fi_Character_08/*
+
+# Character RobotCop
+Content/Woman_01/*
+
+# CyberCity
+Content/__ExternalActors__/*
+Content/__ExternalObjects__/*
+Content/Cyberpunk/*
