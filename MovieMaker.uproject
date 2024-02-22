@@ -12,21 +12,6 @@
 			]
 		},
 		{
-			"Name": "BlueprintHttpServer",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/57188a292ab94b63b2685e42226f5ac7"
-		},
-		{
-			"Name": "FileSDK",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/4f737815666c4e7dabf2043fb55a8419"
-		},
-		{
-			"Name": "WebCommunication",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/3b04f3c4af5445959cee4448846b55a0"
-		},
-		{
 			"Name": "BlueprintJson",
 			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/f837e4835fbc434a853fe1ead2410b84"
